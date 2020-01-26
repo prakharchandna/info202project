@@ -1,8 +1,9 @@
 # info202project
 
+Using public financial data, developed a searchable database on the subsidiaries and industry-presence of US-based multinational companies.
+
 This project served to highlight the size and scope of multinational companies located in the US.
 
-Using public financial data, developed a searchable database on the subsidiaries and industry-presence of US-based multinational companies.
 
 ![alt-text](http://www.convergencealimentaire.info/map.jpg)
 
