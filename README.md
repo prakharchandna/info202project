@@ -2,6 +2,8 @@
 
 This project served to highlight the size and scope of multinational companies located in the US.
 
+Using public financial data, developed a searchable database on the subsidiaries and industry-presence of US-based multinational companies.
+
 ![alt-text](http://www.convergencealimentaire.info/map.jpg)
 
 By law, public companies are required to submit financial information, including annual 10-K financial reports, to the US Security and Exchange Commission. Within these annual reports, companies will provide an Exhibit-21 document listing the subsidiaries they own. 
