@@ -1,4 +1,4 @@
-# info202project
+# PANDO
 
 Using public financial data, developed a searchable database on the subsidiaries and industry-presence of US-based multinational companies.
 
